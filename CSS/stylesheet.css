@@ -2,7 +2,7 @@
   padding= 0;
   }
 header {
-        background-image: url(my4.jpg);
+        background-image: url(../my4.jpg);
         height: 150vh;
         background-size:cover;
         background-position:down;
